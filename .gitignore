@@ -1,0 +1,14 @@
+.DS_Store
+.vscode/
+.idea/
+
+# macOS / editor noise
+Thumbs.db
+
+# local exports
+exports/
+tmp/
+
+# Python cache
+__pycache__/
+*.pyc
